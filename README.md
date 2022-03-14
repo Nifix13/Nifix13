@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nifix13
-- 👀 I’m interested in HTML & CSS & Cinema 4D
+- 👀 I’m interested in HTML & CSS & Cinema 4D & JS
 - 🌱 I’m currently learning HTML & CSS & Photoshop
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
